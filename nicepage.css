@@ -34116,17 +34116,6 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 20px 0;
 }
 
-.u-footer .u-image-1 {
-  height: 40px;
-  width: 80px;
-  margin: 0 auto;
-}
-
-.u-footer .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
-}
-
 .u-footer .u-layout-cell-3 {
   min-height: 170px;
 }
@@ -34186,10 +34175,6 @@ a.u-link.u-text-hover-grey-90:hover {
     padding-right: 30px;
   }
 
-  .u-footer .u-image-1 {
-    margin-right: 20px;
-  }
-
   .u-footer .u-container-layout-3 {
     padding-left: 30px;
     padding-right: 30px;
@@ -34208,10 +34193,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-footer .u-image-1 {
-    margin-right: auto;
   }
 
   .u-footer .u-container-layout-3 {
